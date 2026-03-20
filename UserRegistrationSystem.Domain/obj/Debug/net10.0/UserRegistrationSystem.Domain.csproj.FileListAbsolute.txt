@@ -9,3 +9,4 @@
 /Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Domain/obj/Debug/net10.0/refint/UserRegistrationSystem.Domain.dll
 /Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Domain/obj/Debug/net10.0/UserRegistrationSystem.Domain.pdb
 /Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Domain/obj/Debug/net10.0/ref/UserRegistrationSystem.Domain.dll
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Domain/obj/Debug/net10.0/UserRegistrationSystem.Domain.sourcelink.json

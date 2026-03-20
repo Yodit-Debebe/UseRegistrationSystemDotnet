@@ -5,11 +5,11 @@ using UserRegistrationSystem.Domain;
 
 namespace UserRegistrationSystem.Infrastructure;
 
-public class SqlUserRepository : IUserRepository
+public class PgsqlUserRepository : IUserRepository
 {
     private readonly AppDbContext _context;
 
-    public SqlUserRepository(AppDbContext context)
+    public PgsqlUserRepository(AppDbContext context)
     {
         _context = context;
     }
