@@ -1,0 +1,15 @@
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/bin/Debug/net10.0/UserRegistrationSystem.Application.deps.json
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/bin/Debug/net10.0/UserRegistrationSystem.Application.dll
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/bin/Debug/net10.0/UserRegistrationSystem.Application.pdb
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/bin/Debug/net10.0/UserRegistrationSystem.Domain.dll
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/bin/Debug/net10.0/UserRegistrationSystem.Domain.pdb
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.csproj.AssemblyReference.cache
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.AssemblyInfoInputs.cache
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.AssemblyInfo.cs
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.csproj.CoreCompileInputs.cache
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegi.182098EC.Up2Date
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.dll
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/refint/UserRegistrationSystem.Application.dll
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/UserRegistrationSystem.Application.pdb
+/Users/yodit/UserRegistrationSystem/UserRegistrationSystem.Application/obj/Debug/net10.0/ref/UserRegistrationSystem.Application.dll
